@@ -1,4 +1,4 @@
 OpenDeployment
 ==============
 
-Open Deployment for deploying anything that you want.
+Open Deployment is an orchestration software to deploy anything that you want.
